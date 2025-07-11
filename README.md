@@ -8,7 +8,7 @@ The dataset was sourced from Kaggle(**https://www.kaggle.com/datasets/rohitudage
 ⚙️ Workflow Highlights
 - Data preprocessing: Missing value imputation, outlier handling, feature engineering (Age, Years_Employed)
 - Class balancing: Used SMOTE to handle imbalanced labels
-- Modeling: Applied both Logistic Regression (with RFE) and Histogram-based Gradient Boosting
+- Modeling: Applied  Logistic Regression (with RFE) 
 - Interpretability: Evaluated metrics like recall, precision, confusion matrix
 - Visualization: Deployed a Streamlit dashboard for stakeholder engagement and exploration
 📊 Key Insights
